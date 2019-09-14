@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/M02/Exercise 3.15/Exercise 3.15.iml" filepath="$PROJECT_DIR$/M02/Exercise 3.15/Exercise 3.15.iml" group="M02" />
-      <module fileurl="file://$PROJECT_DIR$/M01/M01 Examples/M01 Examples.iml" filepath="$PROJECT_DIR$/M01/M01 Examples/M01 Examples.iml" group="M01" />
       <module fileurl="file://$PROJECT_DIR$/M01/Exercise 1.3/M01.Exercise 1.3.iml" filepath="$PROJECT_DIR$/M01/Exercise 1.3/M01.Exercise 1.3.iml" group="M01" />
       <module fileurl="file://$PROJECT_DIR$/M01/Exercise 1.5/M01.Exercise 1.5.iml" filepath="$PROJECT_DIR$/M01/Exercise 1.5/M01.Exercise 1.5.iml" group="M01" />
       <module fileurl="file://$PROJECT_DIR$/M01/Exercise 2.13/M01.Exercise 2.13.iml" filepath="$PROJECT_DIR$/M01/Exercise 2.13/M01.Exercise 2.13.iml" group="M01" />
       <module fileurl="file://$PROJECT_DIR$/M01/Exercise 2.3/M01.Exercise 2.3.iml" filepath="$PROJECT_DIR$/M01/Exercise 2.3/M01.Exercise 2.3.iml" group="M01" />
+      <module fileurl="file://$PROJECT_DIR$/M02/Exercise 3.15/Exercise 3.15.iml" filepath="$PROJECT_DIR$/M02/Exercise 3.15/Exercise 3.15.iml" group="M02" />
+      <module fileurl="file://$PROJECT_DIR$/M02/HOL Real World Problem/HOL Real World Problem.iml" filepath="$PROJECT_DIR$/M02/HOL Real World Problem/HOL Real World Problem.iml" group="M02" />
+      <module fileurl="file://$PROJECT_DIR$/M01/M01 Examples/M01.M01 Examples.iml" filepath="$PROJECT_DIR$/M01/M01 Examples/M01.M01 Examples.iml" group="M01" />
       <module fileurl="file://$PROJECT_DIR$/M02/M02 Examples/M02 Examples.iml" filepath="$PROJECT_DIR$/M02/M02 Examples/M02 Examples.iml" group="M02" />
       <module fileurl="file://$PROJECT_DIR$/M03/M03 Examples/M03 Examples.iml" filepath="$PROJECT_DIR$/M03/M03 Examples/M03 Examples.iml" group="M03" />
     </modules>
