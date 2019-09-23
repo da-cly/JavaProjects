@@ -7,14 +7,15 @@ public class Main {
 
         // Prompt the user to enter a guess
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter your lottery pick (three digits): ");
+        System.out.print("Enter your lottery pick in three digits: ");
         int guessNum = input.nextInt();
 
-        // Get digits
+        // Get lottery digits
         int l1 = lottery / 100;
         int l2 = (lottery % 100) / 10; // l2 = (lottery / 10) % 10
         int l3 = lottery % 10;
 
+        // Get guess number digits
         int g1 = guessNum / 100;
         int g2 = (guessNum % 100) / 10;
         int g3 = guessNum % 10;
