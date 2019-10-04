@@ -7,6 +7,8 @@ public class Main {
                 "taxable", "Single", "Married", "Married", "Head of");
         System.out.printf("%-15s%-15s%-15s%-15s%-15s\n",
                 "Income", "Single", "Joint", "Separate", "a House");
+        System.out.println("-----------------------------------------------------------------------");
+
         for (int taxableIncome = 50000; taxableIncome <= 60000;
              taxableIncome += 50) {
             System.out.printf("%-15d%-15d%-15d%-15d%-15d\n",
