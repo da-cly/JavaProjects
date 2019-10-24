@@ -1,0 +1,4 @@
+private int intergerName
+// private means integers can only be changed within the class it is in
+
+//Getter and Setter
